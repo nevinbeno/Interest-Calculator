@@ -26,8 +26,8 @@ Here's a quick look at the program in action:
 
 ## **Installation & Usage**
 ```bash
-git clone https://github.com/nevinbeno/repo.git #clone repository
-cd repo
+git clone https://github.com/nevinbeno/Interest-Calculator.git #clone repository
+cd Interest-Calculator
 ```
 
 ## **Steps to Compile and Run (BASH)**
