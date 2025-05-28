@@ -1,5 +1,5 @@
 # **Banking Interest Calculator**
-A C program that calculates simple and compound interest with transaction logging, demonstrating core banking software principles.
+A C program that calculates Simple Interest and Compound Interest with transaction logging, demonstrating core banking software principles.
 
 ## **Illustrations**
 Here's a quick look at the program in action:
